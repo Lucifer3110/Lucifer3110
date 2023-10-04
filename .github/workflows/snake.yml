@@ -13,7 +13,7 @@ jobs:
         id: snake-gif
 with:
           github_user_name: Lucifer3110
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          output: dist/snake.svg
       - uses: Platane/snk/svg-only@v2
         with:
           target_branch: output
