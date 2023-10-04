@@ -53,3 +53,4 @@
 <img src="https://raw.githubusercontent.com/Lucifer3110/Lucifer3110/output/snake.svg" alt="Snake animation" />
 
 ###
+![snake animation](https://github.com/<seu Lucifer3110>/<seu Lucifer3110>/blob/output/github-contribution-grid-snake2.svg)
